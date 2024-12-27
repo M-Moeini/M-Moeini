@@ -29,6 +29,16 @@ Hi there! I'm **Mahdi Moeini**, a passionate Data Scientist adn AI/ML Developer.
 ## 📈 My Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=M-Moeini&show_icons=true&hide=stars&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=M-Moeini&layout=compact&theme=radical)
+[![Coding Stats](https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_USERNAME&theme=radical)](https://wakatime.com/@YOUR_USERNAME)
+![Profile Views](https://komarev.com/ghpvc/?username=M-Moeini&color=blueviolet)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=M-Moeini.M-Moeini)
+[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=radical)](https://github.com/M-Moeini)
+![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=M-Moeini&repo=Continuous-Control-MI-EEG&theme=radical)
+[![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=M-Moeini&theme=radical)](https://github.com/M-Moeini)
+![GitHub Streak](https://streak-stats.demolab.com/?user=M-Moeini&theme=radical)
+
+
+
 
 
 
