@@ -13,8 +13,10 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      # Step 1: Checkout your repository
       - uses: actions/checkout@v4
-      
+
+      # Step 2: Generate the snake
       - uses: Platane/snk@v3
         id: snake-gif
         with:
@@ -23,7 +25,9 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
             dist/github-contribution-grid-snake.gif
-      
+          years: -1  # This ensures the snake considers all your contributions from all years.
+
+      # Step 3: Deploy the snake animation to GitHub Pages
       - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
