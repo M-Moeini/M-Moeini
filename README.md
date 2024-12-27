@@ -18,6 +18,10 @@ Hi there! I'm **Mahdi Moeini**, a passionate Data Scientist adn AI/ML Developer.
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=M-Moeini&show_icons=true&hide=stars&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=M-Moeini&layout=compact&theme=radical)
 
+
+![GitHub Snake Animation](https://github.com/M-Moeini/M-Moeini/blob/output/github-contribution-grid-snake.svg)
+
+
 ## 📫 Connect With Me
 - 📧 Email: [mmoeini@mun.ca](mailto:mmoeini@mun.ca)
 - 💼 [LinkedIn](https://www.linkedin.com/in/mahdi-moeini/)
