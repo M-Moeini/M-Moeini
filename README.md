@@ -28,8 +28,6 @@ Hi there! I'm **Mahdi Moeini**, a passionate Data Scientist adn AI/ML Developer.
 
 ## 📈 My Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=M-Moeini&show_icons=true&hide=stars&theme=radical)
-[![Mahdi's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=MahdiMoeini&bg_color=ffffff&color=000000&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/MahdiMoeini)
-
 
 
 
