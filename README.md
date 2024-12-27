@@ -34,11 +34,11 @@ Hi there! I'm **Mahdi Moeini**, a passionate Data Scientist adn AI/ML Developer.
 
 
 ## 🐍 Contributions
-
-
-<p>
-<img src="https://raw.githubusercontent.com/M-Moeini/M-Moeini/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/M-Moeini/M-Moeini/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/M-Moeini/M-Moeini/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/M-Moeini/M-Moeini/output/github-contribution-grid-snake.svg">
+</picture>
 
 ## 📫 Connect With Me
 - 📧 Email: [mmoeini@mun.ca](mailto:mmoeini@mun.ca)
