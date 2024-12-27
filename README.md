@@ -1,11 +1,11 @@
 # Welcome to My GitHub Profile! 👋
 
-Hi there! I'm **Mahdi Moeini**, a passionate Data Scientist, AI/ML Researcher, and Software Developer. Welcome to my GitHub profile! 🚀
+Hi there! I'm **Mahdi Moeini**, a passionate Data Scientist adn AI/ML Developer. Welcome to my GitHub profile! 🚀
 
 ## 🌟 About Me
 - 🧠 Master's in Computer Engineering from Memorial University of Newfoundland.
 - 🧪 Experienced in Data Science, Machine Learning, and Cloud.
-- 💻 Skilled in Python, Java, C++, MATLAB, SQL, R, and more.
+- 💻 Skilled in Python, Java, C++, MATLAB, SQL, and R.
 - 🌐 Based in Toronto, ON, Canada.
 
 ## 🔧 Technologies & Tools
