@@ -25,7 +25,7 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
             dist/github-contribution-grid-snake.gif
-          years: 2023  # This ensures the snake considers all your contributions from all years.
+          years: -1  # This ensures the snake considers all your contributions from all years.
 
       # Step 3: Deploy the snake animation to GitHub Pages
       - uses: crazy-max/ghaction-github-pages@v4
